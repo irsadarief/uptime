@@ -1,22 +1,22 @@
 [
   {
     "name": "VPN",
-    "url": "https://vpn.go.id",
-    "icon": "https://icons.duckduckgo.com/ip3/vpn.go.id.ico",
+    "url": "akses.bps.go.id",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn",
-    "status": "down",
-    "uptime": "7.19%",
-    "uptimeDay": "7.19%",
-    "uptimeWeek": "7.19%",
-    "uptimeMonth": "7.19%",
-    "uptimeYear": "7.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "13.92%",
+    "uptimeDay": "13.92%",
+    "uptimeWeek": "13.92%",
+    "uptimeMonth": "13.92%",
+    "uptimeYear": "13.92%",
+    "time": 238,
+    "timeDay": 238,
+    "timeWeek": 238,
+    "timeMonth": 238,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2024-04-21": 1
+      "2024-04-21": 3
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3886,
-    "timeDay": 3886,
-    "timeWeek": 3886,
-    "timeMonth": 3886,
-    "timeYear": 3886,
+    "time": 3742,
+    "timeDay": 3742,
+    "timeWeek": 3742,
+    "timeMonth": 3742,
+    "timeYear": 3742,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3326,
-    "timeDay": 3326,
-    "timeWeek": 3326,
-    "timeMonth": 3326,
-    "timeYear": 3326,
+    "time": 5656,
+    "timeDay": 5656,
+    "timeWeek": 5656,
+    "timeMonth": 5656,
+    "timeYear": 5656,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3042,
-    "timeDay": 3042,
-    "timeWeek": 3042,
-    "timeMonth": 3042,
-    "timeYear": 3042,
+    "time": 5033,
+    "timeDay": 5033,
+    "timeWeek": 5033,
+    "timeMonth": 5033,
+    "timeYear": 5033,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2144,
-    "timeDay": 2144,
-    "timeWeek": 2144,
-    "timeMonth": 2144,
-    "timeYear": 2144,
+    "time": 1750,
+    "timeDay": 1750,
+    "timeWeek": 1750,
+    "timeMonth": 1750,
+    "timeYear": 1750,
     "dailyMinutesDown": {}
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-1-test",
     "status": "down",
-    "uptime": "18.64%",
-    "uptimeDay": "18.64%",
-    "uptimeWeek": "18.64%",
-    "uptimeMonth": "18.64%",
-    "uptimeYear": "18.64%",
+    "uptime": "1.46%",
+    "uptimeDay": "1.46%",
+    "uptimeWeek": "1.46%",
+    "uptimeMonth": "1.46%",
+    "uptimeYear": "1.46%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 4
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-2-test",
     "status": "down",
-    "uptime": "23.80%",
-    "uptimeDay": "23.80%",
-    "uptimeWeek": "23.80%",
-    "uptimeMonth": "23.80%",
-    "uptimeYear": "23.80%",
+    "uptime": "1.45%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "1.45%",
+    "uptimeMonth": "1.45%",
+    "uptimeYear": "1.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-21": 0
+      "2024-04-21": 4
     }
   }
 ]
