@@ -19,6 +19,10 @@ sites:
     url: 203.123.61.248
     check: "tcp-ping"
     port: 80
+  - name: DRC
+    url: 203.123.62.130
+    check: "tcp-ping"
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
