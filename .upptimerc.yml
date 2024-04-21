@@ -4,7 +4,9 @@ repo: uptime # The name of this repository
 
 sites:
   - name: VPN
-    url: https://vpn.go.id
+    check: "tcp-ping"
+    url: akses.bps.go.id
+    port: 80
   - name: Web Pusat
     url: https://www.bps.go.id
   - name: Web Prov
