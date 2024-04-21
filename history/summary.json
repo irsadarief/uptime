@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 238,
-    "timeWeek": 238,
-    "timeMonth": 238,
-    "timeYear": 238,
+    "time": 231,
+    "timeDay": 231,
+    "timeWeek": 231,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3742,
-    "timeDay": 3742,
-    "timeWeek": 3742,
-    "timeMonth": 3742,
-    "timeYear": 3742,
+    "time": 4954,
+    "timeDay": 4954,
+    "timeWeek": 4954,
+    "timeMonth": 4954,
+    "timeYear": 4954,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5656,
-    "timeDay": 5656,
-    "timeWeek": 5656,
-    "timeMonth": 5656,
-    "timeYear": 5656,
+    "time": 6296,
+    "timeDay": 6296,
+    "timeWeek": 6296,
+    "timeMonth": 6296,
+    "timeYear": 6296,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5033,
-    "timeDay": 5033,
-    "timeWeek": 5033,
-    "timeMonth": 5033,
-    "timeYear": 5033,
+    "time": 5800,
+    "timeDay": 5800,
+    "timeWeek": 5800,
+    "timeMonth": 5800,
+    "timeYear": 5800,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1750,
-    "timeDay": 1750,
-    "timeWeek": 1750,
-    "timeMonth": 1750,
-    "timeYear": 1750,
+    "time": 1573,
+    "timeDay": 1573,
+    "timeWeek": 1573,
+    "timeMonth": 1573,
+    "timeYear": 1573,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-1-test",
     "status": "down",
-    "uptime": "1.36%",
-    "uptimeDay": "1.36%",
-    "uptimeWeek": "1.36%",
-    "uptimeMonth": "1.36%",
-    "uptimeYear": "1.36%",
+    "uptime": "0.93%",
+    "uptimeDay": "0.93%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "0.93%",
+    "uptimeYear": "0.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-21": 4
+      "2024-04-21": 6
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-2-test",
     "status": "down",
-    "uptime": "1.31%",
-    "uptimeDay": "1.31%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "1.31%",
-    "uptimeYear": "1.31%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-21": 4
+      "2024-04-21": 6
     }
   }
 ]
