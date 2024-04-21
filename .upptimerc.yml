@@ -16,7 +16,7 @@ sites:
     check: "tcp-ping"
     port: 80
   - name: ISP2
-    url: 203.123.60.248
+    url: 203.123.61.248
     check: "tcp-ping"
     port: 80
 
