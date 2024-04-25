@@ -40,19 +40,19 @@
     "url": "https://jemberkab.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4802,
-    "timeDay": 3514,
-    "timeWeek": 4802,
-    "timeMonth": 4802,
-    "timeYear": 4802,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 4639,
+    "timeDay": 3179,
+    "timeWeek": 4639,
+    "timeMonth": 4639,
+    "timeYear": 4639,
     "dailyMinutesDown": {
-      "2024-04-25": 0
+      "2024-04-25": 15
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-25": 976,
+      "2024-04-25": 991,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
       "2024-04-22": 1440,
