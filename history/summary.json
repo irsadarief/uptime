@@ -60,18 +60,20 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2104,
-    "timeDay": 1532,
-    "timeWeek": 1474,
-    "timeMonth": 2104,
-    "timeYear": 2104,
-    "dailyMinutesDown": {}
+    "time": 2070,
+    "timeDay": 1459,
+    "timeWeek": 1463,
+    "timeMonth": 2070,
+    "timeYear": 2070,
+    "dailyMinutesDown": {
+      "2024-05-04": 0
+    }
   },
   {
     "name": "ISP1",
@@ -126,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-04": 25,
+      "2024-05-04": 432,
       "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
