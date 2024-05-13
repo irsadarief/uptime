@@ -78,19 +78,19 @@
     "url": "https://drive.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/drive.bps.go.id.ico",
     "slug": "drive",
-    "status": "down",
-    "uptime": "90.99%",
-    "uptimeDay": "90.99%",
-    "uptimeWeek": "90.99%",
-    "uptimeMonth": "90.99%",
-    "uptimeYear": "90.99%",
-    "time": 3455,
-    "timeDay": 3455,
-    "timeWeek": 3455,
-    "timeMonth": 3455,
-    "timeYear": 3455,
+    "status": "up",
+    "uptime": "88.41%",
+    "uptimeDay": "88.41%",
+    "uptimeWeek": "88.41%",
+    "uptimeMonth": "88.41%",
+    "uptimeYear": "88.41%",
+    "time": 3028,
+    "timeDay": 3028,
+    "timeWeek": 3028,
+    "timeMonth": 3028,
+    "timeYear": 3028,
     "dailyMinutesDown": {
-      "2024-05-13": 24
+      "2024-05-13": 32
     }
   },
   {
