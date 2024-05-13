@@ -25,7 +25,7 @@ sites:
     url: 103.225.242.135
     check: "tcp-ping"
     port: 80
-  - name: PDNS1
+  - name: PDNS2
     url: 103.6.34.22
     check: "tcp-ping"
     port: 80
