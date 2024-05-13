@@ -11,6 +11,8 @@ sites:
     url: https://jemberkab.bps.go.id
   - name: SSO
     url: https://sso.bps.go.id
+  - name: Drive
+    url: https://drive.bps.go.id
   - name: ISP1
     url: 203.123.60.248
     check: "tcp-ping"
@@ -19,8 +21,8 @@ sites:
     url: 203.123.61.248
     check: "tcp-ping"
     port: 80
-  - name: DRC
-    url: 203.123.62.130
+  - name: PDNS1
+    url: 103.225.242.135
     check: "tcp-ping"
     port: 80
 
