@@ -4,9 +4,9 @@
     "url": "https://www.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.bps.go.id.ico",
     "slug": "web-pusat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 3206,
     "timeMonth": 3941,
     "timeYear": 3941,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-16": 0
+    }
   },
   {
     "name": "Web Prov",
@@ -79,18 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/drive.bps.go.id.ico",
     "slug": "drive",
     "status": "up",
-    "uptime": "98.80%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.80%",
+    "uptime": "98.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 2309,
     "timeDay": 1736,
     "timeWeek": 2309,
     "timeMonth": 2309,
     "timeYear": 2309,
     "dailyMinutesDown": {
-      "2024-05-16": 8,
       "2024-05-13": 46
     }
   },
