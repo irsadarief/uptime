@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bps.go.id.ico",
     "slug": "web-pusat",
     "status": "down",
-    "uptime": "93.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "74.40%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "93.67%",
+    "uptime": "93.64%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "74.30%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "93.64%",
     "time": 4604,
     "timeDay": 3168,
     "timeWeek": 5799,
     "timeMonth": 4604,
     "timeYear": 4604,
     "dailyMinutesDown": {
-      "2024-05-19": 0,
+      "2024-05-19": 10,
       "2024-05-18": 324,
       "2024-05-17": 1401,
       "2024-05-16": 855
@@ -65,9 +65,9 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 1384,
     "timeMonth": 1743,
     "timeYear": 1743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-19": 0
+    }
   },
   {
     "name": "Drive",
