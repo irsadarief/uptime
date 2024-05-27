@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bps.go.id.ico",
     "slug": "web-pusat",
     "status": "up",
-    "uptime": "94.56%",
+    "uptime": "94.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "93.59%",
-    "uptimeYear": "94.56%",
+    "uptimeYear": "94.58%",
     "time": 4490,
     "timeDay": 3270,
     "timeWeek": 3765,
@@ -48,11 +48,11 @@
     "url": "https://jemberkab.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.88%",
     "time": 3571,
     "timeDay": 3284,
@@ -60,6 +60,7 @@
     "timeMonth": 3247,
     "timeYear": 3571,
     "dailyMinutesDown": {
+      "2024-05-27": 2,
       "2024-05-24": 45,
       "2024-04-25": 15
     }
@@ -69,10 +70,10 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.58%",
     "time": 1741,
@@ -81,6 +82,7 @@
     "timeMonth": 1495,
     "timeYear": 1741,
     "dailyMinutesDown": {
+      "2024-05-27": 2,
       "2024-05-24": 44,
       "2024-05-19": 173
     }
@@ -114,10 +116,10 @@
     "url": "203.123.60.248",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.57%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.92%",
     "time": 224,
@@ -126,6 +128,7 @@
     "timeMonth": 221,
     "timeYear": 224,
     "dailyMinutesDown": {
+      "2024-05-27": 0,
       "2024-05-24": 43
     }
   },
