@@ -4,11 +4,11 @@
     "url": "https://www.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/www.bps.go.id.ico",
     "slug": "web-pusat",
-    "status": "up",
+    "status": "down",
     "uptime": "97.07%",
-    "uptimeDay": "85.03%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "99.38%",
+    "uptimeDay": "84.72%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "97.07%",
     "time": 4035,
     "timeDay": 2808,
@@ -16,6 +16,7 @@
     "timeMonth": 3525,
     "timeYear": 4035,
     "dailyMinutesDown": {
+      "2024-07-03": 4,
       "2024-07-02": 216,
       "2024-06-04": 58,
       "2024-05-24": 46,
@@ -30,11 +31,11 @@
     "url": "https://jatim.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/jatim.bps.go.id.ico",
     "slug": "web-prov",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
     "time": 3793,
     "timeDay": 2712,
@@ -42,6 +43,7 @@
     "timeMonth": 3214,
     "timeYear": 3793,
     "dailyMinutesDown": {
+      "2024-07-03": 4,
       "2024-06-04": 57,
       "2024-05-24": 45
     }
@@ -51,11 +53,11 @@
     "url": "https://jemberkab.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
     "time": 3587,
     "timeDay": 11021,
@@ -63,6 +65,7 @@
     "timeMonth": 3758,
     "timeYear": 3587,
     "dailyMinutesDown": {
+      "2024-07-03": 3,
       "2024-06-04": 57,
       "2024-05-24": 45,
       "2024-04-25": 15
@@ -73,10 +76,10 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "95.54%",
-    "uptimeWeek": "99.36%",
+    "uptimeDay": "95.35%",
+    "uptimeWeek": "99.34%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.73%",
     "time": 1670,
@@ -85,6 +88,7 @@
     "timeMonth": 1448,
     "timeYear": 1670,
     "dailyMinutesDown": {
+      "2024-07-03": 3,
       "2024-07-02": 64,
       "2024-05-24": 44,
       "2024-05-19": 173
@@ -104,7 +108,7 @@
     "time": 2144,
     "timeDay": 2267,
     "timeWeek": 2150,
-    "timeMonth": 2014,
+    "timeMonth": 2032,
     "timeYear": 2144,
     "dailyMinutesDown": {
       "2024-06-29": 25,
@@ -125,10 +129,10 @@
     "url": "203.123.60.248",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 221,
@@ -137,6 +141,7 @@
     "timeMonth": 219,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2024-07-03": 1,
       "2024-05-24": 43
     }
   },
@@ -145,9 +150,9 @@
     "url": "203.123.61.248",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -156,7 +161,9 @@
     "timeWeek": 237,
     "timeMonth": 227,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-03": 0
+    }
   },
   {
     "name": "PDNS1",
