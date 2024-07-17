@@ -159,11 +159,11 @@
     "url": "203.123.61.248",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "isp-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.86%",
+    "uptimeMonth": "98.85%",
     "uptimeYear": "99.60%",
     "time": 229,
     "timeDay": 186,
@@ -171,6 +171,7 @@
     "timeMonth": 231,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2024-07-17": 0,
       "2024-07-07": 486,
       "2024-07-03": 15
     }
