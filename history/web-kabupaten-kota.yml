@@ -1,7 +1,7 @@
 url: https://jemberkab.bps.go.id
-status: up
-code: 200
-responseTime: 3717
-lastUpdated: 2024-08-29T23:12:45.564Z
+status: down
+code: 500
+responseTime: 3485
+lastUpdated: 2024-08-30T16:14:55.583Z
 startTime: 2024-04-21T04:29:32.649Z
 generator: Upptime <https://github.com/upptime/upptime>
