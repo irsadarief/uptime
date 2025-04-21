@@ -14,7 +14,7 @@
     "timeDay": 2299,
     "timeWeek": 2344,
     "timeMonth": 2363,
-    "timeYear": 3095,
+    "timeYear": 3052,
     "dailyMinutesDown": {
       "2025-04-01": 20,
       "2025-02-22": 51,
@@ -59,7 +59,7 @@
     "timeDay": 4047,
     "timeWeek": 4168,
     "timeMonth": 4102,
-    "timeYear": 4220,
+    "timeYear": 4165,
     "dailyMinutesDown": {
       "2025-04-08": 15,
       "2025-04-01": 19,
@@ -100,9 +100,9 @@
     "url": "https://jemberkab.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.26%",
@@ -110,8 +110,9 @@
     "timeDay": 4410,
     "timeWeek": 4086,
     "timeMonth": 4146,
-    "timeYear": 4008,
+    "timeYear": 3982,
     "dailyMinutesDown": {
+      "2025-04-21": 0,
       "2025-04-15": 20,
       "2025-03-06": 159,
       "2025-02-28": 445,
@@ -176,7 +177,7 @@
     "timeDay": 1325,
     "timeWeek": 1369,
     "timeMonth": 1321,
-    "timeYear": 1315,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2025-03-10": 31,
       "2025-02-22": 50,
@@ -266,7 +267,7 @@
     "timeDay": 208,
     "timeWeek": 218,
     "timeMonth": 216,
-    "timeYear": 217,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-02-22": 49,
       "2025-02-16": 151,
