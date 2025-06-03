@@ -1,7 +1,7 @@
 url: https://www.bps.go.id
-status: down
-code: 500
-responseTime: 1885
-lastUpdated: 2025-06-03T04:50:57.148Z
+status: up
+code: 200
+responseTime: 25046
+lastUpdated: 2025-06-03T04:59:32.184Z
 startTime: 2024-04-21T04:29:24.817Z
 generator: Upptime <https://github.com/upptime/upptime>
