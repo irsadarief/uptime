@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 3178,
     "timeDay": 2072,
-    "timeWeek": 2916,
+    "timeWeek": 2875,
     "timeMonth": 4016,
     "timeYear": 2994,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.19%",
     "time": 4583,
     "timeDay": 3760,
-    "timeWeek": 7405,
+    "timeWeek": 7629,
     "timeMonth": 5766,
     "timeYear": 4694,
     "dailyMinutesDown": {
@@ -127,7 +127,7 @@
     "uptimeYear": "99.06%",
     "time": 4085,
     "timeDay": 4057,
-    "timeWeek": 4398,
+    "timeWeek": 4440,
     "timeMonth": 4359,
     "timeYear": 4187,
     "dailyMinutesDown": {
@@ -223,9 +223,9 @@
     "url": "https://drive.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/drive.bps.go.id.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "94.40%",
+    "uptimeDay": "94.38%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "98.63%",
