@@ -1,7 +1,7 @@
 url: https://jatim.bps.go.id
-status: up
-code: 200
-responseTime: 6195
-lastUpdated: 2025-06-27T23:15:25.851Z
+status: down
+code: 500
+responseTime: 2825
+lastUpdated: 2025-06-28T01:08:44.216Z
 startTime: 2024-04-21T04:29:29.006Z
 generator: Upptime <https://github.com/upptime/upptime>
