@@ -1,7 +1,7 @@
 url: https://drive.bps.go.id
-status: up
-code: 200
-responseTime: 12543
-lastUpdated: 2025-07-04T13:52:42.817Z
+status: down
+code: 500
+responseTime: 9063
+lastUpdated: 2025-07-04T14:47:39.690Z
 startTime: 2024-05-13T02:45:59.954Z
 generator: Upptime <https://github.com/upptime/upptime>
