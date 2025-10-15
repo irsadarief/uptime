@@ -16,7 +16,7 @@
     "timeMonth": 267,
     "timeYear": 2326,
     "dailyMinutesDown": {
-      "2025-10-15": 450,
+      "2025-10-15": 462,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -158,7 +158,7 @@
     "timeMonth": 222,
     "timeYear": 4019,
     "dailyMinutesDown": {
-      "2025-10-15": 450,
+      "2025-10-15": 462,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -310,7 +310,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
     "status": "down",
-    "uptime": "80.65%",
+    "uptime": "80.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -321,7 +321,7 @@
     "timeMonth": 231,
     "timeYear": 3558,
     "dailyMinutesDown": {
-      "2025-10-15": 450,
+      "2025-10-15": 462,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,
@@ -518,18 +518,19 @@
     "url": "https://drive.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/drive.bps.go.id.ico",
     "slug": "drive",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.48%",
-    "uptimeYear": "99.22%",
-    "time": 2786,
+    "uptimeYear": "99.24%",
+    "time": 2787,
     "timeDay": 2318,
     "timeWeek": 2148,
     "timeMonth": 2240,
     "timeYear": 2867,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-09-25": 101,
       "2025-09-22": 151,
       "2025-09-21": 259,
@@ -553,7 +554,7 @@
       "2025-07-26": 485,
       "2025-07-25": 370,
       "2025-07-24": 269,
-      "2025-07-23": 210
+      "2025-07-23": 117
     }
   },
   {
