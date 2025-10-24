@@ -1,7 +1,7 @@
 url: https://sso.bps.go.id
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-24T22:18:16.153Z
+status: up
+code: 200
+responseTime: 1132
+lastUpdated: 2025-10-24T22:44:37.296Z
 startTime: 2024-04-21T04:29:36.001Z
 generator: Upptime <https://github.com/upptime/upptime>
