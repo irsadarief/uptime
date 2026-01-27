@@ -16,7 +16,7 @@
     "timeMonth": 286,
     "timeYear": 1751,
     "dailyMinutesDown": {
-      "2026-01-27": 1176,
+      "2026-01-27": 1192,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -253,7 +253,7 @@
     "timeMonth": 257,
     "timeYear": 3087,
     "dailyMinutesDown": {
-      "2026-01-27": 1176,
+      "2026-01-27": 1192,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -502,14 +502,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.56%",
+    "uptimeYear": "43.55%",
     "time": 2948,
     "timeDay": 228,
     "timeWeek": 256,
     "timeMonth": 228,
     "timeYear": 2510,
     "dailyMinutesDown": {
-      "2026-01-27": 1176,
+      "2026-01-27": 1192,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -747,13 +747,13 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "7.60%",
-    "uptimeWeek": "23.80%",
+    "uptimeDay": "8.69%",
+    "uptimeWeek": "23.79%",
     "uptimeMonth": "82.24%",
     "uptimeYear": "98.17%",
-    "time": 1216,
+    "time": 1217,
     "timeDay": 1058,
     "timeWeek": 1077,
     "timeMonth": 1089,
@@ -791,7 +791,7 @@
       "2025-11-01": 60,
       "2025-10-31": 154,
       "2025-10-30": 54,
-      "2025-10-29": 63
+      "2025-10-29": 40
     }
   },
   {
