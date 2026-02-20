@@ -16,7 +16,7 @@
     "timeMonth": 473,
     "timeYear": 1603,
     "dailyMinutesDown": {
-      "2026-02-20": 1142,
+      "2026-02-20": 1180,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -275,7 +275,7 @@
     "timeMonth": 307,
     "timeYear": 2829,
     "dailyMinutesDown": {
-      "2026-02-20": 1142,
+      "2026-02-20": 1180,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -543,14 +543,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.03%",
+    "uptimeYear": "37.02%",
     "time": 2782,
     "timeDay": 202,
     "timeWeek": 222,
     "timeMonth": 286,
     "timeYear": 2251,
     "dailyMinutesDown": {
-      "2026-02-20": 1142,
+      "2026-02-20": 1180,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -862,13 +862,13 @@
     "url": "https://drive.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/drive.bps.go.id.ico",
     "slug": "drive",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "96.96%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "96.95%",
     "uptimeMonth": "95.23%",
-    "uptimeYear": "98.61%",
-    "time": 2764,
+    "uptimeYear": "98.62%",
+    "time": 2765,
     "timeDay": 1952,
     "timeWeek": 1976,
     "timeMonth": 1961,
@@ -926,8 +926,7 @@
       "2025-09-16": 147,
       "2025-09-15": 267,
       "2025-09-14": 37,
-      "2025-09-12": 19,
-      "2025-09-11": 45
+      "2025-09-12": 19
     }
   },
   {
