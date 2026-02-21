@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "37.45%",
+    "uptimeYear": "37.44%",
     "time": 1915,
     "timeDay": 280,
     "timeWeek": 278,
     "timeMonth": 415,
     "timeYear": 1598,
     "dailyMinutesDown": {
-      "2026-02-20": 1433,
+      "2026-02-21": 53,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -264,18 +265,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jatim.bps.go.id.ico",
     "slug": "web-prov",
     "status": "down",
-    "uptime": "65.43%",
+    "uptime": "65.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.89%",
+    "uptimeYear": "36.88%",
     "time": 3345,
     "timeDay": 501,
     "timeWeek": 273,
     "timeMonth": 314,
     "timeYear": 2821,
     "dailyMinutesDown": {
-      "2026-02-20": 1433,
+      "2026-02-21": 53,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -529,8 +531,7 @@
       "2025-04-01": 19,
       "2025-03-06": 151,
       "2025-02-28": 445,
-      "2025-02-22": 190,
-      "2025-02-21": 183
+      "2025-02-22": 190
     }
   },
   {
@@ -539,18 +540,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jemberkab.bps.go.id.ico",
     "slug": "web-kabupaten-kota",
     "status": "down",
-    "uptime": "65.41%",
+    "uptime": "65.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.98%",
+    "uptimeYear": "36.96%",
     "time": 2774,
     "timeDay": 260,
     "timeWeek": 222,
     "timeMonth": 282,
     "timeYear": 2241,
     "dailyMinutesDown": {
-      "2026-02-20": 1433,
+      "2026-02-21": 53,
+      "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
       "2026-02-17": 1440,
@@ -798,8 +800,7 @@
       "2025-04-15": 20,
       "2025-03-06": 159,
       "2025-02-28": 445,
-      "2025-02-22": 190,
-      "2025-02-21": 182
+      "2025-02-22": 190
     }
   },
   {
