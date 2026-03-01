@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "35.10%",
+    "uptimeYear": "35.09%",
     "time": 1852,
     "timeDay": 196,
     "timeWeek": 234,
     "timeMonth": 431,
     "timeYear": 1539,
     "dailyMinutesDown": {
-      "2026-03-01": 896,
+      "2026-03-01": 921,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -283,7 +283,7 @@
     "timeMonth": 306,
     "timeYear": 2727,
     "dailyMinutesDown": {
-      "2026-03-01": 896,
+      "2026-03-01": 921,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -557,14 +557,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.77%",
+    "uptimeYear": "34.76%",
     "time": 2715,
     "timeDay": 361,
     "timeWeek": 274,
     "timeMonth": 285,
     "timeYear": 2118,
     "dailyMinutesDown": {
-      "2026-03-01": 896,
+      "2026-03-01": 921,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -827,18 +827,19 @@
     "url": "https://sso.bps.go.id",
     "icon": "https://icons.duckduckgo.com/ip3/sso.bps.go.id.ico",
     "slug": "sso",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "93.38%",
+    "uptimeDay": "95.06%",
     "uptimeWeek": "83.26%",
     "uptimeMonth": "93.70%",
-    "uptimeYear": "97.79%",
+    "uptimeYear": "97.80%",
     "time": 1207,
     "timeDay": 1086,
     "timeWeek": 1091,
     "timeMonth": 1113,
     "timeYear": 1192,
     "dailyMinutesDown": {
+      "2026-03-01": 0,
       "2026-02-28": 593,
       "2026-02-27": 468,
       "2026-02-26": 93,
@@ -874,7 +875,7 @@
       "2025-11-16": 35,
       "2025-11-15": 85,
       "2025-11-14": 90,
-      "2025-11-13": 65
+      "2025-11-13": 24
     }
   },
   {
@@ -884,9 +885,9 @@
     "slug": "drive",
     "status": "up",
     "uptime": "98.55%",
-    "uptimeDay": "94.11%",
-    "uptimeWeek": "34.37%",
-    "uptimeMonth": "83.58%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "34.51%",
+    "uptimeMonth": "83.62%",
     "uptimeYear": "97.38%",
     "time": 2767,
     "timeDay": 1878,
@@ -894,7 +895,7 @@
     "timeMonth": 2059,
     "timeYear": 2802,
     "dailyMinutesDown": {
-      "2026-03-01": 69,
+      "2026-03-01": 54,
       "2026-02-28": 517,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -953,7 +954,7 @@
       "2025-09-18": 120,
       "2025-09-17": 123,
       "2025-09-16": 147,
-      "2025-09-15": 133
+      "2025-09-15": 150
     }
   },
   {
